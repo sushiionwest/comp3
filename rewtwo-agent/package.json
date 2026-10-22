@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.832.0",
+    "@aws-sdk/client-s3": "^3.1036.0",
     "@azure/cognitiveservices-computervision": "^8.2.0",
     "@azure/ms-rest-azure-js": "^2.1.0",
     "@fontsource/inter": "^5.2.5",
